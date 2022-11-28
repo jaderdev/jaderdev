@@ -11,5 +11,9 @@ Eu tentei tudo quanto foi tutorial pra tentar instalar.
   https://br.godaddy.com/help/instalar-manualmente-um-certificado-ssl-no-servidor-iis-7-4801
   https://www.httpcs.com/en/ssl-converter
   https://help.zerossl.com/hc/en-us/articles/6052154874909-Installing-SSL-Certificate-on-IIS
-
+  https://stackoverflow.com/questions/51561093/ssl-certificate-disappearing-from-iis
+  https://www.namecheap.com/support/knowledgebase/article.aspx/9773/2238/ssl-disappears-from-the-certificate-list-on-windows-server/
+  https://www.youtube.com/watch?v=EKB337hi1tk
+  https://www.thesslstore.com/knowledgebase/ssl-install/microsoft-iis-7-ssl-installation/
+  
 - O certificado sumia e as coisas começaram a dar errado Mas com a conversão eu consegui
