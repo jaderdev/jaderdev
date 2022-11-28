@@ -1,0 +1,15 @@
+Como instalei certificado ssl no servidor gratuitamente com zerossl
+
+Eu tentei tudo quanto foi tutorial pra tentar instalar.
+
+- Fiz o processo normal com Zerossl
+- Recebi os arquivos da licença
+- Joguei os arquivos nesse site aqui e recebi um arquivo .cer
+  https://decoder.link/converter
+- Muitos são os sites que tiram dúvidas sobre esse assunto!
+  https://serverfault.com/questions/72297/ssl-certificates-disappear-iis
+  https://br.godaddy.com/help/instalar-manualmente-um-certificado-ssl-no-servidor-iis-7-4801
+  https://www.httpcs.com/en/ssl-converter
+  https://help.zerossl.com/hc/en-us/articles/6052154874909-Installing-SSL-Certificate-on-IIS
+
+- O certificado sumia e as coisas começaram a dar errado Mas com a conversão eu consegui
